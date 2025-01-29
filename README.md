@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+English | <a href="./README.ru.md">Русский</a>
+<h1> amozebus </h1>
 
-<!--
-**amozebus/amozebus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner web-developer from Russia
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Learning backend-development with [Python](https://python.org) and [FastAPI](https://fastapi.tiangolo.com) framework.
+
+Interested in frontend-development with [TypeScript](https://www.typescriptlang.org) and [Vue.js](https://vuejs.org/) framework.
+
+Using/used tools/libraries:
+
+- [Docker/Docker Compose](https://docker.com)
+
+- Backend:
+    - [aiogram](https://aiogram.dev)
+    - [Alembic](https://alembic.sqlalchemy.org/en/latest)
+    - [PostgreSQL](https://postgresql.org)
+    - [SQLModel](https://sqlmodel.tiangolo.com)
+    - [SQLAlchemy](https://sqlalche.me)
+    - [Redis](https://redis.io)
+    - [ngrok](https://ngrok.com)
+    - [uv](https://astral.sh/uv)
+
+- Frontend:
+    - [Pinia](https://pinia.vuejs.org)
