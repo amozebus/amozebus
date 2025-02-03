@@ -19,7 +19,7 @@ Using/used tools/libraries:
     - [Alembic](https://alembic.sqlalchemy.org/en/latest)
     - [PostgreSQL](https://postgresql.org)
     - [SQLModel](https://sqlmodel.tiangolo.com)
-    - [SQLAlchemy](https://sqlalche.me)
+    - [SQLAlchemy](https://sqlalchemy.org)
     - [Redis](https://redis.io)
     - [ngrok](https://ngrok.com)
     - [uv](https://astral.sh/uv)
