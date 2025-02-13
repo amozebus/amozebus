@@ -1,14 +1,20 @@
 <div align="center">
-<a href="./README.md">English</a> | Русский
-<h1> амозебас / амозёбус </h1>
 
-Начинающий веб-разработчик из России
+<a href="./README.md">🇺🇸 English</a> | 🇷🇺 Русский
+
+<h1>амозебас</h1>
+
+⚛️ Веб-разработчик из России 🇷🇺
+
 </div>
 
 
-Изучаю backend-разработку на [Python](https://python.org) с фреймворком [FastAPI](https://fastapi.tiangolo.com).
+Сейчас изучаю:
 
-Интересна frontend-разработка на [TypeScript](https://www.typescriptlang.org) с фреймворком [Vue.js](https://vuejs.org/).
+- backend-разработку на [Python](https://python.org) с фреймворком [FastAPI](https://fastapi.tiangolo.com)
+- frontend-разработку на [TypeScript](https://www.typescriptlang.org) с фреймворком [Vue.js](https://vuejs.org/)
+
+Имею небольшой опыт backend-разработки с [TypeScript](https://www.typescriptlang.org) и фреймворком [NestJS](https://nestjs.com)
 
 Использую/использовал доп. инструменты/библиотеки:
 
