@@ -2,7 +2,7 @@
 
 <a href="./README.md">🇺🇸 English</a> | 🇷🇺 Русский
 
-<h1>амозебас</h1>
+<img alt="amozebus" src="./.assets/title.png" width="450" height="150">
 
 ⚛️ Веб-разработчик из России 🇷🇺
 
