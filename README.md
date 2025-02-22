@@ -1,12 +1,9 @@
-# amozebus
+# 🤍 amozebus
 
-⚛️ Web developer
+🔭 I'm a web developer with skills in frontend and backend development.
+Beyond coding, interested in UI/UX design.
 
 [русская версия](./README.ru.md)
-
-### 🌱 Currently learning
-
-Backend development with Python and FastAPI framework and Frontend development with TypeScript and Vue.js framework
 
 ### 🛠️ Using
 
