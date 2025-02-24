@@ -15,4 +15,6 @@
 
 ### 🔗 Ссылки
 
+- [Телеграм](https://t.me/amozebus)
+
 - [Сайт](https://amozebus.github.io)

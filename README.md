@@ -17,4 +17,6 @@ Beyond coding, interested in UI/UX design.
 
 ### 🔗 Links
 
+- [Telegram](https://t.me/amozebus)
+
 - [Website](https://amozebus.github.io)
