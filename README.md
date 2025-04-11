@@ -1,22 +1,7 @@
 # 🤍 amozebus
 
-🔭 I'm a web developer with skills in frontend and backend development.
-Beyond coding, interested in UI/UX design.
+Python, FastAPI, Docker, PostgreSQL, TypeScript, Redis
 
-[русская версия](./README.ru.md)
+## 🔗 Links
 
-### 🛠️ Using
-
-- Languages: [Python](https://python.org), [TypeScript](https://typescriptlang.org), [HTML](https://html.spec.whatwg.org), [CSS](https://w3.org/TR/CSS/#css)
-
-- Frameworks for frontend: [Vue.js](https://vuejs.org)
-
-- Frameworks for backend: [FastAPI](https://fastapi.tiangolo.com), [NestJS](https://nestjs.com)
-
-- Tools: [Docker](https://docker.com), [Redis](https://redis.io)
-
-### 🔗 Links
-
-- [Telegram](https://t.me/amozebus)
-
-- [Website](https://amozebus.github.io)
+telegram: https://t.me/amozebus
