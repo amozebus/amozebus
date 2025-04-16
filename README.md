@@ -2,6 +2,8 @@
 
 Python, FastAPI, Docker, PostgreSQL, TypeScript, Redis
 
-## 🔗 Links
+## 🔗 links/social
 
 telegram: https://t.me/amozebus
+
+discord: amozebus
